@@ -1,5 +1,6 @@
 # Lu_hector_basic
-Hector Slam &amp; RPLidar Launch files for LU UAV project. For simplicity: odom_frame = base_frame = base_link. Base_link is coincident to laser
+Hector Slam &amp; RPLidar Launch files for LU UAV project. For simplicity, base_link maps directly to map
+Base_link is coincident to laser
 
 Download Required Repositories into (/home/luengr/catkin_ws/src) :
 1) https://github.com/tu-darmstadt-ros-pkg/hector_slam.git (catkin branch)
